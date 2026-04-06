@@ -27,6 +27,7 @@ I have experience working in fast-paced environments like Staples Warehouse and 
 ## Projects
 
 **Active Directory Home Lab**
+(https://github.com/IT-bash/ActiveDirectoryLab)
 
 * Built a domain environment using Windows Server
 * Created and managed users and organizational units
