@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Sebastian Guardo
 
-💻 Aspiring IT Support & Cybersecurity Professional
+Aspiring IT Support & Cybersecurity Professional
 Based in New York
 Currently building hands-on IT labs to develop real-world skills
 
@@ -28,6 +28,8 @@ I have experience working in fast-paced environments like Staples Warehouse and 
 
 **Active Directory Home Lab**
 (https://github.com/IT-bash/ActiveDirectoryLab)
+**Ticketing system Home Lab**
+(https://github.com/IT-bash/Ticketing-System-Lab)
 
 * Built a domain environment using Windows Server
 * Created and managed users and organizational units
